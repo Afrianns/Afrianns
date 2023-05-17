@@ -4,11 +4,14 @@
 ### <center> Welcome to my Github </center>
 
  <hr>
-Hi.
+Hi. 👐
 
-my name is __Hanif Nanda Afrian__ from *Indonesia*.
+my name is __Hanif__ from __Indonesia__.
 
-I love _programming_ especally frontend web development and sometimes when im not coding i create illustration or digital art with Illustrator🎨, something like that. and i love looking to new technology that interested me. ✨
+ - I love _programming_ especally frontend web development.
+ - currently learning vue.✌
+ - when I'm not coding i love create illustartion / digital art. 🎨
+ - I love to See new technology that interested me. ✨
 
 <hr>
 
